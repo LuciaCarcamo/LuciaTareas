@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Propiedad>
+  <Visita>
+    <TipoAccion>Alquiler</TipoAccion>
+    <Padron>1</Padron>
+    <Precio>1000</Precio>
+    <FechaHora>10/10/17 12:55</FechaHora>
+  </Visita>
+  
+  <Visita>
+    <TipoAccion>Venta</TipoAccion>
+    <Padron>9</Padron>
+    <Precio>8000</Precio>
+    <FechaHora>10/8/17 12:55</FechaHora>
+  </Visita>
+  
+  <Visita>
+    <TipoAccion>Permuta</TipoAccion>
+    <Padron>10</Padron>
+    <Precio>9000</Precio>
+    <FechaHora>10/6/17 12:55</FechaHora>
+  </Visita>
+</Propiedad>

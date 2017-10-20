@@ -1,0 +1,83 @@
+C:\Users\jose.duarte\Desktop\Obligatorio Carcamo_Piñeyro_Duarte\ProyectoC\APP_Admin\obj\x86\Debug\APP_Admin.csprojResolveAssemblyReference.cache
+C:\Users\jose.duarte\Desktop\Obligatorio Carcamo_Piñeyro_Duarte\ProyectoC\APP_Admin\obj\x86\Debug\APP_Admin.frmPresentacion.resources
+C:\Users\jose.duarte\Desktop\Obligatorio Carcamo_Piñeyro_Duarte\ProyectoC\APP_Admin\obj\x86\Debug\APP_Admin.Properties.Resources.resources
+C:\Users\jose.duarte\Desktop\Obligatorio Carcamo_Piñeyro_Duarte\ProyectoC\APP_Admin\obj\x86\Debug\APP_Admin.csproj.GenerateResource.Cache
+C:\Users\jose.duarte\Desktop\Obligatorio Carcamo_Piñeyro_Duarte\ProyectoC\APP_Admin\bin\Debug\APP_Admin.exe
+C:\Users\jose.duarte\Desktop\Obligatorio Carcamo_Piñeyro_Duarte\ProyectoC\APP_Admin\bin\Debug\APP_Admin.pdb
+C:\Users\jose.duarte\Desktop\Obligatorio Carcamo_Piñeyro_Duarte\ProyectoC\APP_Admin\bin\Debug\EntidadesCompartidas.dll
+C:\Users\jose.duarte\Desktop\Obligatorio Carcamo_Piñeyro_Duarte\ProyectoC\APP_Admin\bin\Debug\Logica.dll
+C:\Users\jose.duarte\Desktop\Obligatorio Carcamo_Piñeyro_Duarte\ProyectoC\APP_Admin\bin\Debug\Persistencia.dll
+C:\Users\jose.duarte\Desktop\Obligatorio Carcamo_Piñeyro_Duarte\ProyectoC\APP_Admin\bin\Debug\Persistencia.pdb
+C:\Users\jose.duarte\Desktop\Obligatorio Carcamo_Piñeyro_Duarte\ProyectoC\APP_Admin\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\jose.duarte\Desktop\Obligatorio Carcamo_Piñeyro_Duarte\ProyectoC\APP_Admin\bin\Debug\Logica.pdb
+C:\Users\jose.duarte\Desktop\Obligatorio Carcamo_Piñeyro_Duarte\ProyectoC\APP_Admin\obj\x86\Debug\APP_Admin.exe
+C:\Users\jose.duarte\Desktop\Obligatorio Carcamo_Piñeyro_Duarte\ProyectoC\APP_Admin\obj\x86\Debug\APP_Admin.pdb
+C:\Users\jose.duarte\Desktop\Obligatorio Carcamo_Piñeyro_Duarte\ProyectoC\APP_Admin\obj\x86\Debug\APP_Admin.frmPrincipal.resources
+C:\Users\jose.duarte\Desktop\Obligatorio Carcamo_Piñeyro_Duarte\ProyectoC\APP_Admin\obj\x86\Debug\APP_Admin.frmZona.resources
+C:\Users\jose.duarte\Desktop\Obligatorio Carcamo_Piñeyro_Duarte\ProyectoC\APP_Admin\obj\x86\Debug\APP_Admin.frmFuncionario.resources
+C:\Users\jose.duarte\Desktop\Obligatorio Carcamo_Piñeyro_Duarte\ProyectoC\APP_Admin\obj\x86\Debug\APP_Admin.frmApartamento.resources
+C:\Users\jose.duarte\Desktop\Obligatorio Carcamo_Piñeyro_Duarte\ProyectoC\APP_Admin\obj\x86\Debug\APP_Admin.frmCasa.resources
+C:\Users\jose.duarte\Desktop\Obligatorio Carcamo_Piñeyro_Duarte\ProyectoC\APP_Admin\obj\x86\Debug\APP_Admin.frmLocal_Comercial.resources
+D:\Documentos\Estudio\Bios\2017\Aplicaciones distribuidas\ProyectoC\APP_Admin\obj\x86\Debug\APP_Admin.exe
+D:\Documentos\Estudio\Bios\2017\Aplicaciones distribuidas\ProyectoC\APP_Admin\obj\x86\Debug\APP_Admin.pdb
+D:\Documentos\Estudio\Bios\2017\Aplicaciones distribuidas\ProyectoC\APP_Admin\bin\Debug\APP_Admin.exe
+D:\Documentos\Estudio\Bios\2017\Aplicaciones distribuidas\ProyectoC\APP_Admin\bin\Debug\APP_Admin.pdb
+D:\Documentos\Estudio\Bios\2017\Aplicaciones distribuidas\ProyectoC\APP_Admin\bin\Debug\EntidadesCompartidas.dll
+D:\Documentos\Estudio\Bios\2017\Aplicaciones distribuidas\ProyectoC\APP_Admin\bin\Debug\Logica.dll
+D:\Documentos\Estudio\Bios\2017\Aplicaciones distribuidas\ProyectoC\APP_Admin\bin\Debug\Persistencia.dll
+D:\Documentos\Estudio\Bios\2017\Aplicaciones distribuidas\ProyectoC\APP_Admin\bin\Debug\Persistencia.pdb
+D:\Documentos\Estudio\Bios\2017\Aplicaciones distribuidas\ProyectoC\APP_Admin\bin\Debug\EntidadesCompartidas.pdb
+D:\Documentos\Estudio\Bios\2017\Aplicaciones distribuidas\ProyectoC\APP_Admin\bin\Debug\Logica.pdb
+D:\Documentos\Estudio\Bios\2017\Aplicaciones distribuidas\ProyectoC\APP_Admin\obj\x86\Debug\APP_Admin.csprojResolveAssemblyReference.cache
+D:\Documentos\Estudio\Bios\2017\Aplicaciones distribuidas\ProyectoC\APP_Admin\obj\x86\Debug\APP_Admin.frmFuncionario.resources
+D:\Documentos\Estudio\Bios\2017\Aplicaciones distribuidas\ProyectoC\APP_Admin\obj\x86\Debug\APP_Admin.frmPresentacion.resources
+D:\Documentos\Estudio\Bios\2017\Aplicaciones distribuidas\ProyectoC\APP_Admin\obj\x86\Debug\APP_Admin.frmPrincipal.resources
+D:\Documentos\Estudio\Bios\2017\Aplicaciones distribuidas\ProyectoC\APP_Admin\obj\x86\Debug\APP_Admin.frmApartamento.resources
+D:\Documentos\Estudio\Bios\2017\Aplicaciones distribuidas\ProyectoC\APP_Admin\obj\x86\Debug\APP_Admin.frmCasa.resources
+D:\Documentos\Estudio\Bios\2017\Aplicaciones distribuidas\ProyectoC\APP_Admin\obj\x86\Debug\APP_Admin.frmLocal_Comercial.resources
+D:\Documentos\Estudio\Bios\2017\Aplicaciones distribuidas\ProyectoC\APP_Admin\obj\x86\Debug\APP_Admin.frmZona.resources
+D:\Documentos\Estudio\Bios\2017\Aplicaciones distribuidas\ProyectoC\APP_Admin\obj\x86\Debug\APP_Admin.Properties.Resources.resources
+D:\Documentos\Estudio\Bios\2017\Aplicaciones distribuidas\ProyectoC\APP_Admin\obj\x86\Debug\APP_Admin.csproj.GenerateResource.Cache
+D:\Documentos\Estudio\Bios\2017\Aplicaciones distribuidas\ProyectoC\APP_Admin\obj\x86\Debug\APP_Admin.Forms.Visita.ConsultaDeVisita.resources
+D:\Documentos\Estudio\Bios\2017\Aplicaciones distribuidas\ProyectoC-10.10.2017\APP_Admin\obj\x86\Debug\APP_Admin.exe
+D:\Documentos\Estudio\Bios\2017\Aplicaciones distribuidas\ProyectoC-10.10.2017\APP_Admin\obj\x86\Debug\APP_Admin.pdb
+D:\Documentos\Estudio\Bios\2017\Aplicaciones distribuidas\ProyectoC-10.10.2017\APP_Admin\bin\Debug\APP_Admin.exe
+D:\Documentos\Estudio\Bios\2017\Aplicaciones distribuidas\ProyectoC-10.10.2017\APP_Admin\bin\Debug\APP_Admin.pdb
+D:\Documentos\Estudio\Bios\2017\Aplicaciones distribuidas\ProyectoC-10.10.2017\APP_Admin\bin\Debug\EntidadesCompartidas.dll
+D:\Documentos\Estudio\Bios\2017\Aplicaciones distribuidas\ProyectoC-10.10.2017\APP_Admin\bin\Debug\Logica.dll
+D:\Documentos\Estudio\Bios\2017\Aplicaciones distribuidas\ProyectoC-10.10.2017\APP_Admin\bin\Debug\Persistencia.dll
+D:\Documentos\Estudio\Bios\2017\Aplicaciones distribuidas\ProyectoC-10.10.2017\APP_Admin\bin\Debug\Persistencia.pdb
+D:\Documentos\Estudio\Bios\2017\Aplicaciones distribuidas\ProyectoC-10.10.2017\APP_Admin\bin\Debug\EntidadesCompartidas.pdb
+D:\Documentos\Estudio\Bios\2017\Aplicaciones distribuidas\ProyectoC-10.10.2017\APP_Admin\bin\Debug\Logica.pdb
+D:\Documentos\Estudio\Bios\2017\Aplicaciones distribuidas\ProyectoC-10.10.2017\APP_Admin\obj\x86\Debug\APP_Admin.csprojResolveAssemblyReference.cache
+D:\Documentos\Estudio\Bios\2017\Aplicaciones distribuidas\ProyectoC-10.10.2017\APP_Admin\obj\x86\Debug\APP_Admin.frmFuncionario.resources
+D:\Documentos\Estudio\Bios\2017\Aplicaciones distribuidas\ProyectoC-10.10.2017\APP_Admin\obj\x86\Debug\APP_Admin.frmPresentacion.resources
+D:\Documentos\Estudio\Bios\2017\Aplicaciones distribuidas\ProyectoC-10.10.2017\APP_Admin\obj\x86\Debug\APP_Admin.frmPrincipal.resources
+D:\Documentos\Estudio\Bios\2017\Aplicaciones distribuidas\ProyectoC-10.10.2017\APP_Admin\obj\x86\Debug\APP_Admin.frmApartamento.resources
+D:\Documentos\Estudio\Bios\2017\Aplicaciones distribuidas\ProyectoC-10.10.2017\APP_Admin\obj\x86\Debug\APP_Admin.frmCasa.resources
+D:\Documentos\Estudio\Bios\2017\Aplicaciones distribuidas\ProyectoC-10.10.2017\APP_Admin\obj\x86\Debug\APP_Admin.frmLocal_Comercial.resources
+D:\Documentos\Estudio\Bios\2017\Aplicaciones distribuidas\ProyectoC-10.10.2017\APP_Admin\obj\x86\Debug\APP_Admin.frmZona.resources
+D:\Documentos\Estudio\Bios\2017\Aplicaciones distribuidas\ProyectoC-10.10.2017\APP_Admin\obj\x86\Debug\APP_Admin.Properties.Resources.resources
+D:\Documentos\Estudio\Bios\2017\Aplicaciones distribuidas\ProyectoC-10.10.2017\APP_Admin\obj\x86\Debug\APP_Admin.csproj.GenerateResource.Cache
+D:\Documentos\Estudio\Bios\2017\Aplicaciones distribuidas\ProyectoC-10.10.2017\APP_Admin\obj\x86\Debug\APP_Admin.Forms.Visita.dgvConsulta.resources
+D:\Documentos\Estudio\Bios\2017\Aplicaciones distribuidas\Proyecto 2017.10.20\APP_Admin\obj\x86\Debug\APP_Admin.exe
+D:\Documentos\Estudio\Bios\2017\Aplicaciones distribuidas\Proyecto 2017.10.20\APP_Admin\obj\x86\Debug\APP_Admin.pdb
+D:\Documentos\Estudio\Bios\2017\Aplicaciones distribuidas\Proyecto 2017.10.20\APP_Admin\obj\x86\Debug\APP_Admin.csprojResolveAssemblyReference.cache
+D:\Documentos\Estudio\Bios\2017\Aplicaciones distribuidas\Proyecto 2017.10.20\APP_Admin\obj\x86\Debug\APP_Admin.frmFuncionario.resources
+D:\Documentos\Estudio\Bios\2017\Aplicaciones distribuidas\Proyecto 2017.10.20\APP_Admin\obj\x86\Debug\APP_Admin.frmPresentacion.resources
+D:\Documentos\Estudio\Bios\2017\Aplicaciones distribuidas\Proyecto 2017.10.20\APP_Admin\obj\x86\Debug\APP_Admin.frmPrincipal.resources
+D:\Documentos\Estudio\Bios\2017\Aplicaciones distribuidas\Proyecto 2017.10.20\APP_Admin\obj\x86\Debug\APP_Admin.frmApartamento.resources
+D:\Documentos\Estudio\Bios\2017\Aplicaciones distribuidas\Proyecto 2017.10.20\APP_Admin\obj\x86\Debug\APP_Admin.frmCasa.resources
+D:\Documentos\Estudio\Bios\2017\Aplicaciones distribuidas\Proyecto 2017.10.20\APP_Admin\obj\x86\Debug\APP_Admin.frmLocal_Comercial.resources
+D:\Documentos\Estudio\Bios\2017\Aplicaciones distribuidas\Proyecto 2017.10.20\APP_Admin\obj\x86\Debug\APP_Admin.Forms.Visita.dgvConsulta.resources
+D:\Documentos\Estudio\Bios\2017\Aplicaciones distribuidas\Proyecto 2017.10.20\APP_Admin\obj\x86\Debug\APP_Admin.frmZona.resources
+D:\Documentos\Estudio\Bios\2017\Aplicaciones distribuidas\Proyecto 2017.10.20\APP_Admin\obj\x86\Debug\APP_Admin.Properties.Resources.resources
+D:\Documentos\Estudio\Bios\2017\Aplicaciones distribuidas\Proyecto 2017.10.20\APP_Admin\obj\x86\Debug\APP_Admin.csproj.GenerateResource.Cache
+D:\Documentos\Estudio\Bios\2017\Aplicaciones distribuidas\Proyecto 2017.10.20\APP_Admin\bin\Debug\APP_Admin.exe
+D:\Documentos\Estudio\Bios\2017\Aplicaciones distribuidas\Proyecto 2017.10.20\APP_Admin\bin\Debug\APP_Admin.pdb
+D:\Documentos\Estudio\Bios\2017\Aplicaciones distribuidas\Proyecto 2017.10.20\APP_Admin\bin\Debug\EntidadesCompartidas.dll
+D:\Documentos\Estudio\Bios\2017\Aplicaciones distribuidas\Proyecto 2017.10.20\APP_Admin\bin\Debug\Logica.dll
+D:\Documentos\Estudio\Bios\2017\Aplicaciones distribuidas\Proyecto 2017.10.20\APP_Admin\bin\Debug\Persistencia.dll
+D:\Documentos\Estudio\Bios\2017\Aplicaciones distribuidas\Proyecto 2017.10.20\APP_Admin\bin\Debug\Persistencia.pdb
+D:\Documentos\Estudio\Bios\2017\Aplicaciones distribuidas\Proyecto 2017.10.20\APP_Admin\bin\Debug\EntidadesCompartidas.pdb
+D:\Documentos\Estudio\Bios\2017\Aplicaciones distribuidas\Proyecto 2017.10.20\APP_Admin\bin\Debug\Logica.pdb

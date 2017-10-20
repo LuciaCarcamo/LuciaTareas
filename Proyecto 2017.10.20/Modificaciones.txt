@@ -1,0 +1,8 @@
+10.10.2017 --> Lucia
+frm funcionario: 
+	- asocie el user_validaiting al evento validaiting del txtUsu
+	- arregle a ActivoDefault 
+		*txtUsu.Enabled = true;
+	- saque de ActivoAgregar
+		*txtUsu.Text = "";
+	- agregue el evento Load y le puse ActivoDefault para que cuando entre bloque y habilite como debe

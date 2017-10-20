@@ -1,0 +1,6 @@
+botones toolstrip funcionario
+buscar = tsbSearchF
+agregar funcionario nuevo = tsbAddF
+Editar funcionario = tsbEditF
+Eliminar funcionario = tsbDelF
+guardar configuración = tsbSaveF
