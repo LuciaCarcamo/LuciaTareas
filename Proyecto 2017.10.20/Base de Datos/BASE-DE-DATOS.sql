@@ -19,7 +19,9 @@ En AltaEmpleado:
 Exec de AltaEmpleado:
 - recibian dos contraseñas, deje solo una
 
-MIRAR>>>>>> EliminarEmpleado da error porque no existe EmpleadoINActivo. 
+
+En EliminarEmpleado: 
+- se arregló y quedo andando. 
 */
 
 use master
