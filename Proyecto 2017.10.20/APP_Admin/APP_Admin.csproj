@@ -46,23 +46,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Forms\General\Loguin\FrmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\General\Loguin\FrmLogin.designer.cs">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </Compile>
     <Compile Include="Forms\Propiedades\frmApartamento.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Forms\Propiedades\frmApartamento.Designer.cs">
       <DependentUpon>frmApartamento.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Forms\General\frmPresentacion.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Forms\General\frmPresentacion.Designer.cs">
-      <DependentUpon>frmPresentacion.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Forms\General\frmPrincipal.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Forms\General\frmPrincipal.Designer.cs">
-      <DependentUpon>frmPrincipal.cs</DependentUpon>
     </Compile>
     <Compile Include="Forms\Visita\ConsultaDeVisita.cs">
       <SubType>Form</SubType>
@@ -100,11 +94,8 @@
     <EmbeddedResource Include="Forms\Funcionario\frmFuncionario.resx">
       <DependentUpon>frmFuncionario.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Forms\General\frmPresentacion.resx">
-      <DependentUpon>frmPresentacion.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Forms\General\frmPrincipal.resx">
-      <DependentUpon>frmPrincipal.cs</DependentUpon>
+    <EmbeddedResource Include="Forms\General\Loguin\FrmLogin.resx">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\Propiedades\frmApartamento.resx">
       <DependentUpon>frmApartamento.cs</DependentUpon>

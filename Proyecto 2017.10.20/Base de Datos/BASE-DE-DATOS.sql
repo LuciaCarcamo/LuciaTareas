@@ -891,7 +891,7 @@ go
 Exec AltaZona 'A','CAN','Canelones',2000000
 go
 
-Exec AltaCasa 1,'charcas',123,'ALQUILER',2,2,23,'S','MDO','Usuario1',123,1
+Exec AltaCasa 1,'charcas',123,'ALQUILER',2,2,23,'S','MDO','Usuario 1',123,1
 go
 Exec AltaCasa 2,'Alvacete',123,'PERMUTA',2,2,23,'S','MDO','Usuario 1',123,1
 go

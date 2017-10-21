@@ -103,3 +103,10 @@ D:\Documentos\Estudio\Bios\2017\Aplicaciones distribuidas\ProyectoC\Controles\bi
 D:\Documentos\Estudio\Bios\2017\Aplicaciones distribuidas\ProyectoC\Controles\obj\Debug\Controles.csprojResolveAssemblyReference.cache
 D:\Documentos\Estudio\Bios\2017\Aplicaciones distribuidas\ProyectoC\Controles\obj\Debug\Controles.dll
 D:\Documentos\Estudio\Bios\2017\Aplicaciones distribuidas\ProyectoC\Controles\obj\Debug\Controles.pdb
+C:\Users\Lucía\Desktop\LuciaTareas\Proyecto 2017.10.20\Controles\bin\Debug\Controles.dll
+C:\Users\Lucía\Desktop\LuciaTareas\Proyecto 2017.10.20\Controles\bin\Debug\Controles.pdb
+C:\Users\Lucía\Desktop\LuciaTareas\Proyecto 2017.10.20\Controles\bin\Debug\EntidadesCompartidas.dll
+C:\Users\Lucía\Desktop\LuciaTareas\Proyecto 2017.10.20\Controles\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\Lucía\Desktop\LuciaTareas\Proyecto 2017.10.20\Controles\obj\Debug\Controles.csprojResolveAssemblyReference.cache
+C:\Users\Lucía\Desktop\LuciaTareas\Proyecto 2017.10.20\Controles\obj\Debug\Controles.dll
+C:\Users\Lucía\Desktop\LuciaTareas\Proyecto 2017.10.20\Controles\obj\Debug\Controles.pdb

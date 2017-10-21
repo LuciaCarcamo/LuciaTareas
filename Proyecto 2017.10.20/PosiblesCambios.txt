@@ -1,0 +1,4 @@
+Posibles cambios: 
+
+Proyecto 2017.10.20\APP_Admin\Forms\Zona\trabajoZona.cs
+	Se puede hacer ambos switch con xml y eliminar trabajoZona.cs??

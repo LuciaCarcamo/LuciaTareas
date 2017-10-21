@@ -122,3 +122,7 @@ D:\Documentos\Estudio\Bios\2017\Aplicaciones distribuidas\ProyectoC\EntidadesCom
 D:\Documentos\Estudio\Bios\2017\Aplicaciones distribuidas\ProyectoC\EntidadesCompartidas\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
 D:\Documentos\Estudio\Bios\2017\Aplicaciones distribuidas\ProyectoC\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
 D:\Documentos\Estudio\Bios\2017\Aplicaciones distribuidas\ProyectoC\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\Lucía\Desktop\LuciaTareas\Proyecto 2017.10.20\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\Lucía\Desktop\LuciaTareas\Proyecto 2017.10.20\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\Lucía\Desktop\LuciaTareas\Proyecto 2017.10.20\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\Lucía\Desktop\LuciaTareas\Proyecto 2017.10.20\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb

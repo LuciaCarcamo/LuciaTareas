@@ -81,3 +81,25 @@ D:\Documentos\Estudio\Bios\2017\Aplicaciones distribuidas\Proyecto 2017.10.20\AP
 D:\Documentos\Estudio\Bios\2017\Aplicaciones distribuidas\Proyecto 2017.10.20\APP_Admin\bin\Debug\Persistencia.pdb
 D:\Documentos\Estudio\Bios\2017\Aplicaciones distribuidas\Proyecto 2017.10.20\APP_Admin\bin\Debug\EntidadesCompartidas.pdb
 D:\Documentos\Estudio\Bios\2017\Aplicaciones distribuidas\Proyecto 2017.10.20\APP_Admin\bin\Debug\Logica.pdb
+C:\Users\Lucía\Desktop\LuciaTareas\Proyecto 2017.10.20\APP_Admin\obj\x86\Debug\APP_Admin.exe
+C:\Users\Lucía\Desktop\LuciaTareas\Proyecto 2017.10.20\APP_Admin\obj\x86\Debug\APP_Admin.pdb
+C:\Users\Lucía\Desktop\LuciaTareas\Proyecto 2017.10.20\APP_Admin\bin\Debug\APP_Admin.exe
+C:\Users\Lucía\Desktop\LuciaTareas\Proyecto 2017.10.20\APP_Admin\bin\Debug\APP_Admin.pdb
+C:\Users\Lucía\Desktop\LuciaTareas\Proyecto 2017.10.20\APP_Admin\bin\Debug\EntidadesCompartidas.dll
+C:\Users\Lucía\Desktop\LuciaTareas\Proyecto 2017.10.20\APP_Admin\bin\Debug\Logica.dll
+C:\Users\Lucía\Desktop\LuciaTareas\Proyecto 2017.10.20\APP_Admin\bin\Debug\Persistencia.dll
+C:\Users\Lucía\Desktop\LuciaTareas\Proyecto 2017.10.20\APP_Admin\bin\Debug\Persistencia.pdb
+C:\Users\Lucía\Desktop\LuciaTareas\Proyecto 2017.10.20\APP_Admin\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\Lucía\Desktop\LuciaTareas\Proyecto 2017.10.20\APP_Admin\bin\Debug\Logica.pdb
+C:\Users\Lucía\Desktop\LuciaTareas\Proyecto 2017.10.20\APP_Admin\obj\x86\Debug\APP_Admin.csprojResolveAssemblyReference.cache
+C:\Users\Lucía\Desktop\LuciaTareas\Proyecto 2017.10.20\APP_Admin\obj\x86\Debug\APP_Admin.frmFuncionario.resources
+C:\Users\Lucía\Desktop\LuciaTareas\Proyecto 2017.10.20\APP_Admin\obj\x86\Debug\APP_Admin.frmPresentacion.resources
+C:\Users\Lucía\Desktop\LuciaTareas\Proyecto 2017.10.20\APP_Admin\obj\x86\Debug\APP_Admin.frmPrincipal.resources
+C:\Users\Lucía\Desktop\LuciaTareas\Proyecto 2017.10.20\APP_Admin\obj\x86\Debug\APP_Admin.frmApartamento.resources
+C:\Users\Lucía\Desktop\LuciaTareas\Proyecto 2017.10.20\APP_Admin\obj\x86\Debug\APP_Admin.frmCasa.resources
+C:\Users\Lucía\Desktop\LuciaTareas\Proyecto 2017.10.20\APP_Admin\obj\x86\Debug\APP_Admin.frmLocal_Comercial.resources
+C:\Users\Lucía\Desktop\LuciaTareas\Proyecto 2017.10.20\APP_Admin\obj\x86\Debug\APP_Admin.Forms.Visita.dgvConsulta.resources
+C:\Users\Lucía\Desktop\LuciaTareas\Proyecto 2017.10.20\APP_Admin\obj\x86\Debug\APP_Admin.frmZona.resources
+C:\Users\Lucía\Desktop\LuciaTareas\Proyecto 2017.10.20\APP_Admin\obj\x86\Debug\APP_Admin.Properties.Resources.resources
+C:\Users\Lucía\Desktop\LuciaTareas\Proyecto 2017.10.20\APP_Admin\obj\x86\Debug\APP_Admin.csproj.GenerateResource.Cache
+C:\Users\Lucía\Desktop\LuciaTareas\Proyecto 2017.10.20\APP_Admin\obj\x86\Debug\Gestion.FrmLogin.resources

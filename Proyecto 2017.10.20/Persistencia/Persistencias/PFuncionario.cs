@@ -66,7 +66,6 @@ namespace Persistencia
 
             _cmd.Parameters.AddWithValue("@empUsuario", F.Nombre);
             _cmd.Parameters.AddWithValue("@empContraseña", F.Password);
-            _cmd.Parameters.AddWithValue("@empContraseña1", F.Password);
 
             SqlParameter _Retorno = new SqlParameter("@Retorno", SqlDbType.Int);
             _Retorno.Direction = ParameterDirection.ReturnValue;
@@ -78,11 +77,9 @@ namespace Persistencia
                 _cmd.ExecuteNonQuery();
                 int Afectados = (int)_cmd.Parameters["@Retorno"].Value;
                 if (Afectados == -1)
-                    throw new Exception("Las contraseñas no son iguales");
+                    throw new Exception("El empleado no existe");
                 if (Afectados == -2)
-                    throw new Exception("El Funcionario no existe");
-                if (Afectados == -3)
-                    throw new Exception("El Funcionario ya fue eliminado");
+                    throw new Exception("Error usuario - contraseña");
             }
             catch (Exception ex)
             {
@@ -113,11 +110,9 @@ namespace Persistencia
                 _cmd.ExecuteNonQuery();
                 int Afectados = (int)_cmd.Parameters["@Retorno"].Value;
                 if (Afectados == -1)
-                    throw new Exception("Las contraseñas no son iguales");
+                    throw new Exception("No existe el empleado");
                 if (Afectados == -2)
-                    throw new Exception("El funcionario no existe");
-                if (Afectados == -3)
-                    throw new Exception("El funcionario no existe");
+                    throw new Exception("No existe el empleado");
             }
             catch (Exception ex)
             {

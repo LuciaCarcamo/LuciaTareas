@@ -149,19 +149,22 @@ namespace APP_Admin
                     throw new Exception("El acronimo debe tener tres letras");
 
                 Zona zon = LFabrica.GetInstZona().BuscarZona(departamento, acronimo);
-                Funcionario fun = LFabrica.GetLogicaFun().BuscarFuncionario("Usuario1");
+                Funcionario fun = LFabrica.GetLogicaFun().BuscarFuncionario("Usuario 1");
 
-                if (zon != null && fun != null)
+                if (zon != null)
                 {
+                    if (fun != null)
+                    {
                     LocalComercial locNew = new LocalComercial(padron, precio, baños, cantHabitaciones, mt2Ed, txtDireccion.Text, accion, zon, fun, habilitacion);
                     LFabrica.getLogicaPropiedad().AltaPropiedad(locNew);
                     Limpiar();
                     lblError.Text = "Alta con exito";
+                    }
+                    else
+                        throw new Exception("No existe el funcionario");
                 }
                 else
-                {
-                    lblError.Text = "No se encuentra la zona o el funcionario";
-                }
+                    throw new Exception("No se encuentra la zona");
             }
             catch (Exception ex)
             {
@@ -198,7 +201,7 @@ namespace APP_Admin
                 string departamento = trabajoZona.IDDepartamento(cbxDepartamento.SelectedItem.ToString());
 
                 Zona zon = LFabrica.GetInstZona().BuscarZona(departamento, txtAcronimo.Text);
-                Funcionario fun = LFabrica.GetLogicaFun().BuscarFuncionario("Usuario1");
+                Funcionario fun = LFabrica.GetLogicaFun().BuscarFuncionario("Usuario 1");
 
                 local.Departamento = zon;
                 local.Usuario = fun;

@@ -310,3 +310,16 @@ D:\Documentos\Estudio\Bios\2017\Aplicaciones distribuidas\ProyectoC\Clientes\bin
 D:\Documentos\Estudio\Bios\2017\Aplicaciones distribuidas\ProyectoC\Clientes\obj\Debug\Clientes.csprojResolveAssemblyReference.cache
 D:\Documentos\Estudio\Bios\2017\Aplicaciones distribuidas\ProyectoC\Clientes\obj\Debug\Clientes.dll
 D:\Documentos\Estudio\Bios\2017\Aplicaciones distribuidas\ProyectoC\Clientes\obj\Debug\Clientes.pdb
+C:\Users\Lucía\Desktop\LuciaTareas\Proyecto 2017.10.20\Clientes\bin\Clientes.dll
+C:\Users\Lucía\Desktop\LuciaTareas\Proyecto 2017.10.20\Clientes\bin\Clientes.pdb
+C:\Users\Lucía\Desktop\LuciaTareas\Proyecto 2017.10.20\Clientes\bin\Controles.dll
+C:\Users\Lucía\Desktop\LuciaTareas\Proyecto 2017.10.20\Clientes\bin\EntidadesCompartidas.dll
+C:\Users\Lucía\Desktop\LuciaTareas\Proyecto 2017.10.20\Clientes\bin\Logica.dll
+C:\Users\Lucía\Desktop\LuciaTareas\Proyecto 2017.10.20\Clientes\bin\Persistencia.dll
+C:\Users\Lucía\Desktop\LuciaTareas\Proyecto 2017.10.20\Clientes\bin\Controles.pdb
+C:\Users\Lucía\Desktop\LuciaTareas\Proyecto 2017.10.20\Clientes\bin\EntidadesCompartidas.pdb
+C:\Users\Lucía\Desktop\LuciaTareas\Proyecto 2017.10.20\Clientes\bin\Logica.pdb
+C:\Users\Lucía\Desktop\LuciaTareas\Proyecto 2017.10.20\Clientes\bin\Persistencia.pdb
+C:\Users\Lucía\Desktop\LuciaTareas\Proyecto 2017.10.20\Clientes\obj\Debug\Clientes.csprojResolveAssemblyReference.cache
+C:\Users\Lucía\Desktop\LuciaTareas\Proyecto 2017.10.20\Clientes\obj\Debug\Clientes.dll
+C:\Users\Lucía\Desktop\LuciaTareas\Proyecto 2017.10.20\Clientes\obj\Debug\Clientes.pdb

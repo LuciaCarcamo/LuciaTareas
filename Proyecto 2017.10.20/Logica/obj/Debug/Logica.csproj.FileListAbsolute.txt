@@ -259,3 +259,12 @@ D:\Documentos\Estudio\Bios\2017\Aplicaciones distribuidas\ProyectoC\Logica\bin\D
 D:\Documentos\Estudio\Bios\2017\Aplicaciones distribuidas\ProyectoC\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
 D:\Documentos\Estudio\Bios\2017\Aplicaciones distribuidas\ProyectoC\Logica\obj\Debug\Logica.dll
 D:\Documentos\Estudio\Bios\2017\Aplicaciones distribuidas\ProyectoC\Logica\obj\Debug\Logica.pdb
+C:\Users\Lucía\Desktop\LuciaTareas\Proyecto 2017.10.20\Logica\bin\Debug\Logica.dll
+C:\Users\Lucía\Desktop\LuciaTareas\Proyecto 2017.10.20\Logica\bin\Debug\Logica.pdb
+C:\Users\Lucía\Desktop\LuciaTareas\Proyecto 2017.10.20\Logica\bin\Debug\EntidadesCompartidas.dll
+C:\Users\Lucía\Desktop\LuciaTareas\Proyecto 2017.10.20\Logica\bin\Debug\Persistencia.dll
+C:\Users\Lucía\Desktop\LuciaTareas\Proyecto 2017.10.20\Logica\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\Lucía\Desktop\LuciaTareas\Proyecto 2017.10.20\Logica\bin\Debug\Persistencia.pdb
+C:\Users\Lucía\Desktop\LuciaTareas\Proyecto 2017.10.20\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\Lucía\Desktop\LuciaTareas\Proyecto 2017.10.20\Logica\obj\Debug\Logica.dll
+C:\Users\Lucía\Desktop\LuciaTareas\Proyecto 2017.10.20\Logica\obj\Debug\Logica.pdb

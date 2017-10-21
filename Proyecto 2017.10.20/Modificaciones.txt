@@ -1,4 +1,4 @@
-10.10.2017 --> Lucia
+2017.10.10 --> Lucia
 frm funcionario: 
 	- asocie el user_validaiting al evento validaiting del txtUsu
 	- arregle a ActivoDefault 
@@ -6,3 +6,9 @@ frm funcionario:
 	- saque de ActivoAgregar
 		*txtUsu.Text = "";
 	- agregue el evento Load y le puse ActivoDefault para que cuando entre bloque y habilite como debe
+
+2017.10.20 --> Lucia
+	- cambie persistencia zona y servicio por las que me envio Jose
+	- idem con el form de zona
+	- en los forms de propiedad arregle el cbx para que se lea el departamento entero
+	- agregue una funcion en trabajoZona para que devuelva el nombre del departamento de cierto id
